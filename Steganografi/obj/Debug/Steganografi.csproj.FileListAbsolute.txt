@@ -1,0 +1,30 @@
+C:\Users\Can\source\repos\Steganografi\Steganografi\bin\Debug\Steganografi.exe.config
+C:\Users\Can\source\repos\Steganografi\Steganografi\bin\Debug\Steganografi.exe
+C:\Users\Can\source\repos\Steganografi\Steganografi\bin\Debug\Steganografi.pdb
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.Form1.resources
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.cache
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.exe
+C:\Users\Can\source\repos\Steganografi\Steganografi\obj\Debug\Steganografi.pdb
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\bin\Debug\Steganografi.exe.config
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\bin\Debug\Steganografi.exe
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\bin\Debug\Steganografi.pdb
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.AssemblyReference.cache
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.Form1.resources
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.cache
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.CoreCompileInputs.cache
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.exe
+D:\18.11.21\01-05-2020\Work\Professional Work\C#\Steganografi\Steganografi\obj\Debug\Steganografi.pdb
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\bin\Debug\Steganografi.exe.config
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\bin\Debug\Steganografi.exe
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\bin\Debug\Steganografi.pdb
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.AssemblyReference.cache
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.Form1.resources
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.cache
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.CoreCompileInputs.cache
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.exe
+D:\18.11.21\01-05-2020\Work\ProfessionalWork\C#\Steganografi\Steganografi\obj\Debug\Steganografi.pdb
